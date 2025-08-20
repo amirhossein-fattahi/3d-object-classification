@@ -7,8 +7,8 @@
 ---
 
 ## 👥 Authors
-- Amirhossein Fattahi (2109245)  
-- Reza Sarkhosh (2109663)
+- Amirhossein Fattahi
+- Reza Sarkhosh
 
 ---
 
@@ -55,5 +55,5 @@ We further investigate the impact of **orientation labels** (12 discrete azimuth
 
 Clone this repository:
 ```bash
-git clone https://github.com/amirhossein-fattahi/3D-object-classification.git
-cd 3D-object-classification
+git clone https://github.com/amirhossein-fattahi/3d-object-classification.git
+cd 3d-object-classification
