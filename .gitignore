@@ -1,0 +1,41 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.egg-info/
+.dist/
+.build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & outputs (adjust to your layout)
+data/
+datasets/
+outputs/
+logs/
+runs/
+
+# Models / weights (tracked via LFS below)
+*.pt
+*.pth
+*.h5
+*.onnx
+*.ckpt
+*.pkl
+
+# Misc
+*.zip
+*.tar.gz
